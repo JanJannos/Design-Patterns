@@ -193,6 +193,15 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "morelinq/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MoreLinq.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MoreLinq.dll": {}
+        }
+      },
       "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -553,6 +562,27 @@
         "version.txt"
       ]
     },
+    "morelinq/3.2.0": {
+      "sha512": "Anb2PApG8NYVXR2tG3kYje9E3pNFkyjeTtvhTzaLtCIBs2v1KB3nGuwmsh/froF4TPwqj1Uy9pNadreairnpZQ==",
+      "type": "package",
+      "path": "morelinq/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "COPYING.txt",
+        "lib/net451/MoreLinq.dll",
+        "lib/net451/MoreLinq.pdb",
+        "lib/net451/MoreLinq.xml",
+        "lib/netstandard1.0/MoreLinq.dll",
+        "lib/netstandard1.0/MoreLinq.pdb",
+        "lib/netstandard1.0/MoreLinq.xml",
+        "lib/netstandard2.0/MoreLinq.dll",
+        "lib/netstandard2.0/MoreLinq.pdb",
+        "lib/netstandard2.0/MoreLinq.xml",
+        "morelinq.3.2.0.nupkg.sha512",
+        "morelinq.nuspec"
+      ]
+    },
     "NETStandard.Library/2.0.3": {
       "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
@@ -684,7 +714,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "morelinq >= 3.2.0"
     ]
   },
   "packageFolders": {
@@ -732,6 +763,10 @@
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
+          },
+          "morelinq": {
+            "target": "Package",
+            "version": "[3.2.0, )"
           }
         },
         "imports": [

@@ -9,3 +9,4 @@ C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfo.cs
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.dll
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.pdb
+C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Capitals.txt
