@@ -1,16 +1,12 @@
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\nunit.engine.dll
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Capitals.txt
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.deps.json
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.runtimeconfig.json
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.runtimeconfig.dev.json
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.dll
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.pdb
+C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.csprojAssemblyReference.cache
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.csproj.CoreCompileInputs.cache
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfoInputs.cache
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.AssemblyInfo.cs
+C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Design Patterns.pdb
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.dll
 C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.pdb
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\bin\Debug\netcoreapp2.1\Capitals.txt
-C:\Users\X220\source\repos\Design Patterns\Design Patterns\obj\Debug\netcoreapp2.1\Design Patterns.csprojAssemblyReference.cache
