@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Design_Patterns.Visitor.PluralSight
+namespace Design_Patterns.Visitor.PluralSight.AfterRef
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             var person = new Person();
             //person.BankAccounts.Add(new BankAccount { Amount = 1000, MonthlyInterest = 0.01 });
@@ -18,14 +18,14 @@ namespace Design_Patterns.Visitor.PluralSight
             person.Assets.Add(new RealEstate { EstimatedValue = 79000, MonthlyRent = 500 });
             person.Assets.Add(new Loan { Owed = 40000, MonthlyPayment = 40 });
 
-            // Networth
+            // Networth Visitor
 
             var networthVisitor = new NetworthVisitor();
             person.Accept(networthVisitor);
             Console.WriteLine(networthVisitor.Total);
             Console.ReadKey();
 
-            // Income 
+            // Income Visitor
             var incomeVisitor = new IncomeVisitor();
             person.Accept(incomeVisitor);
             Console.WriteLine(incomeVisitor.Amount);

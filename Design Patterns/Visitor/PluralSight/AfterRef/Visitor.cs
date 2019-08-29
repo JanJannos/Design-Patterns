@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Design_Patterns.Visitor.PluralSight
+namespace Design_Patterns.Visitor.PluralSight.AfterRef
 {
 
     public interface IVisitor

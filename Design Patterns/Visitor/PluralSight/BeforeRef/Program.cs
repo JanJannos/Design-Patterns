@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Design_Patterns.Visitor.PluralSight1
+namespace Design_Patterns.Visitor.PluralSight1.BeforeRef
 {
-    class Program
+    public class Program
     {
-        static void Main1(string[] args)
+        public static void Main1(string[] args)
         {
             var person = new Person();
             person.BankAccounts.Add(new BankAccount { Amount = 1000, MonthlyInterest = 0.01 });

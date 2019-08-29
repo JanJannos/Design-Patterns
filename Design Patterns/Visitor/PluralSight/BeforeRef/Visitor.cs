@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Design_Patterns.Visitor.PluralSight1
+namespace Design_Patterns.Visitor.PluralSight1.BeforeRef
 {
    public class Person
     {
