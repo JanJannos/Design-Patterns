@@ -11,7 +11,7 @@ namespace Design_Patterns.Strategy
          *  Here we're injecting the Strategy to the Func
          */
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             Func<Order, double> fedExStrategy = CalcForFedEx;
             Func<Order, double> upsStrategy = delegate (Order order) { return 4.00d; };
