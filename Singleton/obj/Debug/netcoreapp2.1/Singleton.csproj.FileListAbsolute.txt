@@ -1,0 +1,16 @@
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\Capitals.txt
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\Singleton.deps.json
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\Singleton.runtimeconfig.json
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\Singleton.runtimeconfig.dev.json
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\Singleton.dll
+C:\Users\X220\source\repos\Design Patterns\Singleton\bin\Debug\netcoreapp2.1\Singleton.pdb
+C:\Users\X220\source\repos\Design Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.csprojAssemblyReference.cache
+C:\Users\X220\source\repos\Design Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\X220\source\repos\Design Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\X220\source\repos\Design Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfo.cs
+C:\Users\X220\source\repos\Design Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.dll
+C:\Users\X220\source\repos\Design Patterns\Singleton\obj\Debug\netcoreapp2.1\Singleton.pdb

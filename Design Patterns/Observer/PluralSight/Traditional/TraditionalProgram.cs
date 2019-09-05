@@ -7,7 +7,7 @@ namespace Observer.Traditional
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             // Monitor a stock ticker, when particular events occur, react
             StockTicker subj = new StockTicker();
