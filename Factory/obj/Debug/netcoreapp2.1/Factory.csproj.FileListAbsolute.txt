@@ -8,4 +8,3 @@ C:\Users\X220\source\repos\Design Patterns\Factory\obj\Debug\netcoreapp2.1\Facto
 C:\Users\X220\source\repos\Design Patterns\Factory\obj\Debug\netcoreapp2.1\Factory.AssemblyInfo.cs
 C:\Users\X220\source\repos\Design Patterns\Factory\obj\Debug\netcoreapp2.1\Factory.dll
 C:\Users\X220\source\repos\Design Patterns\Factory\obj\Debug\netcoreapp2.1\Factory.pdb
-C:\Users\X220\source\repos\Design Patterns\Factory\obj\Debug\netcoreapp2.1\Factory.csprojAssemblyReference.cache

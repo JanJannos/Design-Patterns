@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
-using Design_Patterns.Annotations;
 
 namespace Design_Patterns.Observer
 {

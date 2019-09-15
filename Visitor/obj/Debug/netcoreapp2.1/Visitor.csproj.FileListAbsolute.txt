@@ -1,0 +1,11 @@
+C:\Users\X220\source\repos\Design Patterns\Visitor\bin\Debug\netcoreapp2.1\Capitals.txt
+C:\Users\X220\source\repos\Design Patterns\Visitor\bin\Debug\netcoreapp2.1\Visitor.deps.json
+C:\Users\X220\source\repos\Design Patterns\Visitor\bin\Debug\netcoreapp2.1\Visitor.runtimeconfig.json
+C:\Users\X220\source\repos\Design Patterns\Visitor\bin\Debug\netcoreapp2.1\Visitor.runtimeconfig.dev.json
+C:\Users\X220\source\repos\Design Patterns\Visitor\bin\Debug\netcoreapp2.1\Visitor.dll
+C:\Users\X220\source\repos\Design Patterns\Visitor\bin\Debug\netcoreapp2.1\Visitor.pdb
+C:\Users\X220\source\repos\Design Patterns\Visitor\obj\Debug\netcoreapp2.1\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\X220\source\repos\Design Patterns\Visitor\obj\Debug\netcoreapp2.1\Visitor.AssemblyInfoInputs.cache
+C:\Users\X220\source\repos\Design Patterns\Visitor\obj\Debug\netcoreapp2.1\Visitor.AssemblyInfo.cs
+C:\Users\X220\source\repos\Design Patterns\Visitor\obj\Debug\netcoreapp2.1\Visitor.dll
+C:\Users\X220\source\repos\Design Patterns\Visitor\obj\Debug\netcoreapp2.1\Visitor.pdb
